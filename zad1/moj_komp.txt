@@ -1,4 +1,0 @@
-﻿pojemność dysku: 426 GB
-ilosc RAM: 4,00 GB
-rodzaj i prędkość procesora: Intel(R) Celeron(R) CPU 1037U @ 1.80 GHz 1.80 GHz
-System: 64-bitowy
